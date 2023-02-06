@@ -1,1 +1,3 @@
-# whether-analysis-using-python
+# whether-analysis
+
+The Weather Dataset is a time-series data set with per-hour information about the weather conditions at a particular location. It records Temperature,Windspeed,max.temperature,min.temparature,...
